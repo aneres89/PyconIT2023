@@ -1,0 +1,11 @@
+# Pycon IT 2023
+
+This repository contains the slides of my presentation at Pycon IT 2023
+
+# Title of the talk
+
+How to use Deep Learning to process audio data and classify sounds
+
+# abstract
+
+Within the Artificial Intelligence (AI) field, audio classification also known as sound classification is the process of listening and classifying audio recordings. This process is helping us to have a more and more better understanding of audio data. Even if we are lately hearing most about Computer Vision and Natural Language Processing (NLP) applications, there are many use cases for Deep Learning with audio data that are transforming our daily lives. Sound classification is a process at the heart of a variety of modern AI technology, including virtual assistants, such as the well-known Amazon’s Alexa, Microsoft’s Cortana, Apple’s Siri and Google’s Virtual assistant. Audio data, in our day-by-day life, can come in several forms such as music, animal voices, human speech and other natural sounds but also city sounds and many more. Since there are several types of sounds, there are a vast number of use cases, related to practical scenarios, that require processing and analyzing audio. Among the most common tasks that involve audio processing we can find: audio classification, audio separation and segmentation, Music classification and generation, voice recognition, speech-to-text and text-to-speech. Some of these tasks are applied on the above-mentioned virtual assistants but can be used for other real-life applications such as automatic speech recognition, predictive maintenance, smart home security systems and multimedia indexing and retrieval. In this work we use sound files, converted into spectrograms and input them into Deep Learning models to produce predictions about the class to which the sound belongs. We go through all the technical steps needed to achieve the goal of sound classification. Preprocessing and visualization of data, AI models development, training, and model assessment is done in Python by using proper AI libraries and frameworks. Different state-of-the-art Deep Learning models are trained. We evaluate the metric and the performances of the models and carry out a predictive analysis on the best one.
